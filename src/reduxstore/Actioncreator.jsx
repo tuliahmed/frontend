@@ -1,7 +1,7 @@
 import axios from "axios";
 import * as actiontype from "./ActionType";
 
-const Base = "http://api.helfiger.com/api/";
+const Base = "https://api.helfiger.com/api/";
 const Products = "products";
 const Product = "product";
 const register = "register";
